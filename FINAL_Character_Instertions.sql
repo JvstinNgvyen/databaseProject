@@ -310,3 +310,16 @@ INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`, `MovieID`) VALUES ('C0087','May Parker','MV024');
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`, `MovieID`) VALUES ('C0088','Harold Hogan','MV024');
+
+
+#Captain Marvel
+INSERT INTO `CHARACTER_t`
+(`CharacterID`, `Name`, `MovieID`) VALUES ('C0089','Captain Marvel / Carol Danvers','MV025');
+INSERT INTO `CHARACTER_t`
+(`CharacterID`, `Name`, `MovieID`) VALUES ('C0090','Nick Fury','MV025');
+INSERT INTO `CHARACTER_t`
+(`CharacterID`, `Name`, `MovieID`) VALUES ('C0091','Keller','MV025');
+INSERT INTO `CHARACTER_t`
+(`CharacterID`, `Name`, `MovieID`) VALUES ('C0092','Yon-Rogg','MV025');
+INSERT INTO `CHARACTER_t`
+(`CharacterID`, `Name`, `MovieID`) VALUES ('C0093','Dr. Wendy Lawson','MV025');
