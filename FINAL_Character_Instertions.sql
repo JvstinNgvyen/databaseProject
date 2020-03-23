@@ -195,8 +195,8 @@ INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`, `MovieID`) VALUES ('C0054','Zia Rodriguez','MV015');
 
 
-#Frozen
-INSERT INTO `CHARACTER_t`----------------
+#Frozen------------------
+INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`, `MovieID`) VALUES ('C0036','Anna','MV016');
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`, `MovieID`) VALUES ('C0037','Elsa','MV016');
@@ -240,7 +240,7 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`, `MovieID`) VALUES ('C0066','Deckard Shaw','MV019');
 INSERT INTO `CHARACTER_t`
-(`CharacterID`, `Name`, `MovieID`) VALUES ('C0067','Luke Hobbs','MV019');
+(`CharacterID`, `Name`, `MovieID`) VALUES ('C0033','Luke Hobbs','MV019');
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`, `MovieID`) VALUES ('C0034','Letty Ortiz','MV019');
 INSERT INTO `CHARACTER_t`
