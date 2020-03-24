@@ -363,6 +363,7 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0039','Josh Gad','1981-02-23');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0040','Sterling K. Brown','1976-04-05');
+
 #Black Panther
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0041','Chadwick Boseman','1976-11-29');
@@ -374,6 +375,7 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0044','Danai Gurira','1978-02-14');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0045','Martin Freeman','1971-09-08');
+
 #Harry Potter And the Deathly Hallows, Part 2
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0046','Daniel Radcliffe','1989-07-23');
@@ -385,6 +387,7 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0049','Alan Rickman','1946-02-21');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0050','Ralph Fiennes','1962-12-22');
+
 #Star Wars: Episode VIII - The Last Jedi------------------
 #Mark Hamill
 #Carrie Fisher
@@ -392,6 +395,7 @@ INSERT INTO `ACTOR_t`
 #Daisey Ridley
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0051','John Boyega','1992-03-17');
+
 #Jurassic World: Fallen Kingdom---------------------
 #Chris Pratt
 #Bryce Dallas Howard
@@ -401,6 +405,7 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0053','Justice Smith','1995-08-09');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0054','Daniella Pineda','1987-02-20');
+
 #Frozen---------------
 #Kristen Bell
 #Idina Menzel
@@ -408,6 +413,7 @@ INSERT INTO `ACTOR_t`
 #Josh Gad
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0055','Santino Fontana','1982-03-21');
+
 #Beauty and the Beast
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0056','Emma Watson','1990-04-15');
@@ -419,6 +425,7 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0059','Kevin Kline','1947-10-24');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0060','Josh Gad','1981-02-23');
+
 #Incredibles 2
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0061','Craig T. Nelson','1944-04-04');
@@ -430,10 +437,12 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0064','Eli Fucile','2002-?-?');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0065','Huck Milner','2008-08-30');
+
 #The Fate of the Furious----------
 #Vin Diesel
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0066','Jason Statham','1967-07-26');
+
 #Dwayne Johnson
 #Michelle Rodriguez
 #Tyrese Gibson
@@ -447,6 +456,7 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0069','Guy Pearce','1967-10-05');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0070','Rebecca Hall','1982-05-03');
+
 #Minions
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0071','Sandra Bullock','1964-07-26');
@@ -458,6 +468,7 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0074','Allison Janney','1959-11-19');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0075','Steve Coogan','1965-10-14');
+
 #Captain America: Civil War----------
 #Chris Evans
 #Robert Downey Jr.
@@ -466,6 +477,7 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0076','Sebastian Stan','1982-08-13');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0077','Anthony Mackie','1979-09-23');
+
 #Aquaman
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0078','Jason Momoa','1979-08-01');
@@ -477,6 +489,7 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0081','Patrick Wilson','1973-07-03');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0082','Nicole Kidman','1967-06-20');
+
 #Spider-Man: Far Fom Home
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0083','Tom Holland','1996-06-01');
@@ -488,9 +501,11 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0086','Marisa Tomei','1964-12-04');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0087','Jon Favreau','1966-10-19');
+
 #Captain Marvel
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0088','Brie Larson','1989-10-01');
+
 #Samuel L. Jackson???????????????????????????
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0089','Ben Mendelsohn','1969-04-03');
@@ -498,7 +513,6 @@ INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0090','Jude Law','1972-12-29');
 INSERT INTO `ACTOR_t`
 (`ActorID`, `Name`, `DOB`) VALUES ('A0091','Annette Bening','1958-05-29');
-
 
 # Avengers: Endgame
 INSERT INTO `CHARACTER_t`
@@ -512,7 +526,6 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0005','Blackwidow / Natasha Romanoff');
 
-
 # Avatar
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0006','Jake Sully');
@@ -525,7 +538,6 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0010','Norm Spellman');
 
-
 # Titanic
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0011','Rose Dewitt Bukater');
@@ -537,7 +549,6 @@ INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0014','Molly Brown');
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0015','Ruth Dewitt Buakater');
-
 
 # Star Wars: Episode VII - The Force Awakens
 INSERT INTO `CHARACTER_t`
@@ -563,7 +574,6 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0025','Zach Mitchell');
 
-
 #The Lion King
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0026','Simba');
@@ -575,7 +585,6 @@ INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0029','Scar');
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0030','Sarabi');
-
 
 #Furious 7
 INSERT INTO `CHARACTER_t`
@@ -589,7 +598,6 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0035','Roman Pearce');
 
-
 #Frozen II
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0036','Anna');
@@ -601,7 +609,6 @@ INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0039','Olaf');
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0040','Lieutenant Mattias');
-
 
 #Black Panther
 INSERT INTO `CHARACTER_t`
@@ -615,7 +622,6 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0045','Everett K. Ross');
 
-
 #Harry Potter and the Deathly Hallows, Part 2
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0046','Harry Potter');
@@ -628,11 +634,9 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0050','Lord Voldemort');
 
-
 #Star Wars: Episode VIII - The Last Jedi--------------
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0051','Finn');
-
 
 #Jurassic World: Fallen Kingdon-------------------
 INSERT INTO `CHARACTER_t`
@@ -642,11 +646,9 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0054','Zia Rodriguez');
 
-
 #Frozen------------------
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0055','Hans');
-
 
 #Beauty and the Beast
 INSERT INTO `CHARACTER_t`
@@ -660,7 +662,6 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0060','Lefou');
 
-
 #Incredibles 2
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0061','Mr. Incredible / Bob Parr');
@@ -672,7 +673,6 @@ INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0064','Jack-Jack Parr');
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0065','Dash Parr');
-
 
 #Fate of the Furious
 INSERT INTO `CHARACTER_t`
@@ -688,7 +688,6 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0071','Maya Hansen');
 
-
 #Minions
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0072','Scarlet Overkill');
@@ -701,13 +700,11 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0076','Professor Flux / Tower Guard');
 
-
 #Captain America: Civil War-------------
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0077','Winter Soldier / James Barnes');
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0078','Falcon / Sam Wilson');
-
 
 #Aquaman
 INSERT INTO `CHARACTER_t`
@@ -721,7 +718,6 @@ INSERT INTO `CHARACTER_t`
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0083','Atlanta');
 
-
 #Spider-Man: Far From Home
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0084','Spider-Man / Peter Parker');
@@ -733,7 +729,6 @@ INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0087','May Parker');
 INSERT INTO `CHARACTER_t`
 (`CharacterID`, `Name`) VALUES ('C0088','Harold Hogan');
-
 
 #Captain Marvel
 INSERT INTO `CHARACTER_t`
@@ -911,7 +906,6 @@ INSERT INTO ACTED_t VALUES ('C0004', 'A0004');
 #Black Widow
 INSERT INTO ACTED_t VALUES ('C0005', 'A0005');
 
-
 #Avatar
 #Jake Sully
 INSERT INTO ACTED_t VALUES ('C0006', 'A0006');
@@ -923,7 +917,6 @@ INSERT INTO ACTED_t VALUES ('C0008', 'A0008');
 INSERT INTO ACTED_t VALUES ('C0009', 'A0009');
 #Norm Spellman
 INSERT INTO ACTED_t VALUES ('C0010', 'A0010');
-
 
 #Titanic
 #Rose Dewitt Bukater
@@ -937,7 +930,6 @@ INSERT INTO ACTED_t VALUES ('C0014', 'A0014');
 #Ruth Dewitt Buakater
 INSERT INTO ACTED_t VALUES ('C0015', 'A0015');
 
-
 #Star Wars: Episode VII - The Force Awakens
 #Han Solo
 INSERT INTO ACTED_t VALUES ('C0016', 'A0016');
@@ -950,14 +942,12 @@ INSERT INTO ACTED_t VALUES ('C0019', 'A0019');
 #Rey
 INSERT INTO ACTED_t VALUES ('C0020', 'A0020');
 
-
 #Avengers: Infinity War---------
 #Iron Man
 #Thor
 #Captain America
 #Hulk
 #Black Widow
-
 
 #Jurassic World
 #Owen Grady
@@ -971,7 +961,6 @@ INSERT INTO ACTED_t VALUES ('C0024', 'A0024');
 #Zach Mitchell
 INSERT INTO ACTED_t VALUES ('C0025', 'A0025');
 
-
 #The Lion King
 #Simba
 INSERT INTO ACTED_t VALUES ('C0026', 'A0026');
@@ -984,14 +973,12 @@ INSERT INTO ACTED_t VALUES ('C0029', 'A0029');
 #Sarabi
 INSERT INTO ACTED_t VALUES ('C0023', 'A0030');
 
-
 #Marvel's The Avengers---------
 #Iron Man
 #Captain America
 #Hulk
 #Thor
 #Blackwidow
-
 
 #Furious 7
 #Dominic Toretto
@@ -1026,7 +1013,6 @@ INSERT INTO ACTED_t VALUES ('C0039', 'A0039');
 #Lieutenant Mattias
 INSERT INTO ACTED_t VALUES ('C0040', 'A0040');
 
-
 #BlackPanther
 #King TChalla
 INSERT INTO ACTED_t VALUES ('C0041', 'A0041');
@@ -1038,7 +1024,6 @@ INSERT INTO ACTED_t VALUES ('C0043', 'A0043');
 INSERT INTO ACTED_t VALUES ('C0044', 'A0044');
 #Everett K. Ross
 INSERT INTO ACTED_t VALUES ('C0045', 'A0045');
-
 
 #Harry Potter and the Deathly Hallows, Part 2
 #Harry Potter
@@ -1059,7 +1044,6 @@ INSERT INTO ACTED_t VALUES ('C0050', 'A0050');
 #Daisey Ridley
 INSERT INTO ACTED_t VALUES ('C0051', 'A0051');
 
-
 #Jurassic World: Fallen Kingdom------
 #Chris Pratt
 #Bryce Dallas Howard
@@ -1078,7 +1062,6 @@ INSERT INTO ACTED_t VALUES ('C0054', 'A0054');
 #Hans
 INSERT INTO ACTED_t VALUES ('C0055', 'A0055');
 
-
 #Beauty and the Beast
 #Belle
 INSERT INTO ACTED_t VALUES ('C0056', 'A0056');
@@ -1090,7 +1073,6 @@ INSERT INTO ACTED_t VALUES ('C0058', 'A0058');
 INSERT INTO ACTED_t VALUES ('C0059', 'A0059');
 #Lefou
 INSERT INTO ACTED_t VALUES ('C0060', 'A0060');
-
 
 #Incredibles 2
 #Mr. Incredible
@@ -1104,7 +1086,6 @@ INSERT INTO ACTED_t VALUES ('C0064', 'A0064');
 #Dash Parr
 INSERT INTO ACTED_t VALUES ('C0065', 'A0065');
 
-
 #The Fate of the Furious-----------
 #Dominic Toretto
 #Deckard Shaw
@@ -1112,7 +1093,6 @@ INSERT INTO ACTED_t VALUES ('C0066', 'A0066');
 #Luke Hobbs
 #Letty Ortiz
 #Roman Pearce
-
 
 #Iron Man 3---------
 #Iron Man
@@ -1124,7 +1104,6 @@ INSERT INTO ACTED_t VALUES ('C0069', 'A0068');
 INSERT INTO ACTED_t VALUES ('C0070', 'A0069');
 #Maya Hansen
 INSERT INTO ACTED_t VALUES ('C0071', 'A0070');
-
 
 #Minions
 #Scarlet Overkill
@@ -1138,7 +1117,6 @@ INSERT INTO ACTED_t VALUES ('C0075', 'A0074');
 #Professor Flux
 INSERT INTO ACTED_t VALUES ('C0076', 'A0075');
 
-
 #Captain America: Civil War-----
 #Captain America
 #Iron Man
@@ -1147,7 +1125,6 @@ INSERT INTO ACTED_t VALUES ('C0076', 'A0075');
 INSERT INTO ACTED_t VALUES ('C0077', 'A0076');
 #Falcon / Sam Wilson
 INSERT INTO ACTED_t VALUES ('C0078', 'A0077');
-
 
 #Aquaman
 #Aquaman
@@ -1161,7 +1138,6 @@ INSERT INTO ACTED_t VALUES ('C0082', 'A0081');
 #Atlanta
 INSERT INTO ACTED_t VALUES ('C0083', 'A0082');
 
-
 #Spider-Man: Far From Home
 #Spider-Man
 INSERT INTO ACTED_t VALUES ('C0084', 'A0083');
@@ -1173,7 +1149,6 @@ INSERT INTO ACTED_t VALUES ('C0086', 'A0085');
 INSERT INTO ACTED_t VALUES ('C0087', 'A0086');
 #Harold Hogan
 INSERT INTO ACTED_t VALUES ('C0088', 'A0087');
-
 
 #Captain Marvel
 #Captain Marvel
@@ -1273,7 +1248,6 @@ INSERT INTO quote_t VALUES ('Q0059', 'baby noises', 'C0064', 'A0064');
 INSERT INTO quote_t VALUES ('Q0060', 'throw it', 'C0065', 'A0065');
 
 #IM3
-
 INSERT INTO quote_t VALUES ('Q0061', 'Proof that tony stark has a heart', 'C0068', 'A0067');
 INSERT INTO quote_t VALUES ('Q0062', 'Tony Stank', 'C0069', 'A0078');
 INSERT INTO quote_t VALUES ('Q0063', 'Will yo see this', 'C0070', 'A0069');
@@ -1283,7 +1257,6 @@ INSERT INTO quote_t VALUES ('Q0064', 'We dated', 'C0071', 'A0070');
 #NO
 
 #Aqua Man
-
 INSERT INTO quote_t VALUES ('Q0065', 'Fish noises', 'C0079', 'A0078');
 INSERT INTO quote_t VALUES ('Q0066', 'Arthur you are the king', 'C0080', 'A0079');
 INSERT INTO quote_t VALUES ('Q0067', 'I would want to fight me niether', 'C0081', 'A0080');
@@ -1298,7 +1271,6 @@ INSERT INTO quote_t VALUES ('Q0073', 'Were not dating', 'C0087', 'A0086');
 INSERT INTO quote_t VALUES ('Q0074', 'Were dating', 'C0088', 'A0087');
 
 #Captain Marvel
-
 INSERT INTO quote_t VALUES ('Q0075', 'Justice', 'C0089', 'A0088');
 INSERT INTO quote_t VALUES ('Q0076', 'Ezekiel 25:14', 'C0085', 'A0084');
 INSERT INTO quote_t VALUES ('Q0077', 'I need the power stone', 'C0091', 'A0089');
